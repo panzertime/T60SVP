@@ -1,3 +1,7 @@
+# Heads Up
+
+You will want [this](https://web.archive.org/web/20220424075457/http://www.ja.axxs.net/read_this_first%21.htm)
+
 # T60SVP
 
 This is a PIC24-based application capable of reading the Supervisor password from an IBM ThinkPad T60 laptop. It was written specifically to run on an Explorer 16/32 development kit with the 24FJ1024GB610 PIM, but the code is portable to pretty much any platform.
